@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NUMappx</string>
+    <string name="title_favorite">المفضلة</string>
+    <string name="your_country">الدولة</string>
+    <string name="title_add">اضافة</string>
+    <string name="title_profile">صفحتي</string>
+    <string name="hello_blank_fragment">ااا</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="your_city">المدينة</string>
+    <string name="public_switch">عام</string>
+    <string name="private_switch">خاص</string>
+    <string name="Number_text">الرقم</string>
+    <string name="name_textfield">الاسم</string>
+    <string name="your_district">الحي</string>
+    <string name="makkah">مكة المكرمة</string>
+    <string name="Saudi_Arabia">المملكة العربية السعودية</string>
+    <string name="Al_Awali">العوالي</string>
+    <string name="card_info">معلومات البطاقة:</string>
+</resources>

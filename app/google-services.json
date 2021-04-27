@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8405685097",
+    "project_id": "numbersapplication-d7915",
+    "storage_bucket": "numbersapplication-d7915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8405685097:android:4bff7951ef9873390463f8",
+        "android_client_info": {
+          "package_name": "com.wesam.numappx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8405685097-9cb8gji4m5h0583hbrsrbc5h4kfb5ucp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wesam.numappx",
+            "certificate_hash": "e940cbc127d403559d0b9349596962f874d44043"
+          }
+        },
+        {
+          "client_id": "8405685097-j282a1ii51etj7bcb3viju879eenfsuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJ3WcVp-ejG1kglr8vFvKhPBCuiRy-u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8405685097-j282a1ii51etj7bcb3viju879eenfsuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

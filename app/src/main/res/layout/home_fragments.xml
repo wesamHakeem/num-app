@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/a"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F8FF"
+    android:orientation="vertical"
+    tools:context=".fragments.home_fragments">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/my_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:background="#594D3D"
+        android:layout_marginBottom="55dp"/>
+</LinearLayout>
